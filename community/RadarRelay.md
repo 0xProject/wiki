@@ -1,4 +1,4 @@
-RadarRelay is a trustless exchange built on the [Øx protocol](/0x).
+RadarRelay is a trustless exchange built on the Øx protocol.
 
 RadarRelay will allow users to trade ERC-20 tokens (Ethereum network tokens like Augur, OmiseGo, Golem, &etc) without trusting eachother or RadarRelay.
 
@@ -33,6 +33,8 @@ If the ETH "request" button doesn't seem to be working, there are [other ways to
 7. Your 1 ETH will be on its way! You can get another 1 ETH in 24 hours.
 
 Windows users will have to [install `curl`](https://curl.haxx.se/download.html) to use this method.
+
+If you have a GitHub account, you can also request a manual transfer in the [Kovan testnet Gitter chat][gitter-kovan].  You may have to wait, but you can receive up to 5 Kovan ETH per transfer.
 
 
 ### Fees for the Beta
@@ -106,3 +108,4 @@ This mirrors the tooltip on the [Øx OTC site][ox-otc]:
 [add-gnt]: https://kovan.etherscan.io/address/0xef7fff64389b814a946f3e92105513705ca6b990
 [add-exchange]: https://kovan.etherscan.io/address/0x90Fe2Af704B34E0224bF2299C838E04d4Dcf1364#code
 [add-zrx]: https://kovan.etherscan.io/address/0x6Ff6C0Ff1d68b964901F986d4C9FA3ac68346570#code
+[gitter-kovan]: https://gitter.im/kovan-testnet/faucet
