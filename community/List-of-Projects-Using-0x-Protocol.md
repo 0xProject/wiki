@@ -2,6 +2,7 @@ These lists are composed of projects that publicly announced their interest in u
 
 ### List of dApps that will be (or are) using the 0x protocol
 
++ [AMIS](https://github.com/amisolution/ERC20-AMIS/blob/master/AMIS-intend-to-use-0x-protocol)
 + [Augur](https://augur.stackexchange.com/questions/313/connection-between-0x-and-augur)
 + [Aragon](https://blog.aragon.one/aragon-partners-with-0x-3c8d0c9dcd84?gi=b168d6992669)
 + [Blocknet](https://blocknet.co/)
