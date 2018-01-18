@@ -19,6 +19,7 @@ These lists are composed of projects that publicly announced their interest in u
 
 ### List of relayers that will be (or are) using the 0x protocol
 
++ [BINKD](https://www.binkd.com) 
 + [Dextroid](https://www.dextroid.io/)
 + [ERC dEX](http://ercdex.com)
 + [Ethfinex](https://www.ethfinex.com/)
