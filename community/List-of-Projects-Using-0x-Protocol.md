@@ -31,6 +31,7 @@ These lists are composed of projects that publicly announced their interest in u
 + [Decent Ex](https://decent.exchange)
 + [DDEX](https://ddex.io/)
 + [MobiDex](http://mobidex.io)
++ [Zip](https://zip.exchange)
 
 
 ### List of 0x trade explorers
