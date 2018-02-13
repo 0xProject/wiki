@@ -38,4 +38,4 @@ These lists are composed of projects that publicly announced their interest in u
 + [0x Remote Hr](http://0x.remote.hr)
 + [0x Trade Viewer](http://0xtrades.info)
 + [0x Tracker](http://0xtracker.com)
-
+  
