@@ -18,6 +18,7 @@ These lists are composed of projects that publicly announced their interest in u
 * [MelonPort](https://melonport.com/)
 * [OpenANX](https://www.openanx.org/)
 * [Request Network](https://request.network/)
+* [WeiX](https://www.weix.io/)
 
 ### List of relayers that will be (or are) using the 0x protocol
 
