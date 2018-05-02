@@ -32,6 +32,7 @@ These lists are composed of projects that publicly announced their interest in u
 * [Paradex](https://paradex.io/)
 * [RadarRelay](https://radarrelay.com/)
 * [SharkRelay](https://app.sharkrelay.com/)
+* [SimpleDex](https://simpledex.io/)
 * [The 0cean](https://the0cean.com)
 * [Token Jar](https://tokenjar.io/)
 * [Tokenlon](https://tokenlon.token.im/)
