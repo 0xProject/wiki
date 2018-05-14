@@ -42,4 +42,4 @@ Now that you have a high-level overview of Ethereum Blockchain development, it i
 
 ### Next steps
 
-Now that you've got a basic understanding of what is involved when developing on Ethereum, you're now ready to go onto the next step of [Building a Relayer](#Build-A-Relayer). If you'd rather jump right in, you can skip straight to learning how to [Create, Validate and Fill Orders](https://0xproject.com/wiki#Create,-Validate,-Fill-Order) on 0x.
+Now that you've got a basic understanding of what is involved when developing on Ethereum, you're now ready to go onto the next step of [Building a Relayer](https://github.com/0xProject/wiki/blob/master/getting-started/Build-A-Relayer.md). If you'd rather jump right in, you can skip straight to learning how to [Create, Validate and Fill Orders](https://0xproject.com/wiki#Create,-Validate,-Fill-Order) on 0x.
