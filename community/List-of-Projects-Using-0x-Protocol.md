@@ -22,11 +22,13 @@ These lists are composed of projects that publicly announced their interest in u
 ### List of relayers that will be (or are) using the 0x protocol
 
 * [Amadeus](http://amadeusrelay.org)
+* [Bamboo Relay](https://www.bamboorelay.com/)
 * [DDEX](https://ddex.io/)
 * [Dextroid](https://www.dextroid.io/)
 * [ERC dEX](http://ercdex.com)
 * [Ethfinex](https://www.ethfinex.com/)
 * [IDT Exchange](https://www.idtexchange.com/)
+* [Instex](https://www.instex.io/)
 * [MobiDex](http://mobidex.io)
 * [OpenRelay](https://openrelay.xyz)
 * [Paradex](https://paradex.io/)

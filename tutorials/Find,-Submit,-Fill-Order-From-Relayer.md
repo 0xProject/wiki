@@ -17,7 +17,7 @@ For this tutorial we will be using [TestRPC](https://github.com/ethereumjs/testr
 Clone the repo:
 
 ```
-git clone git@github.com:0xProject/0x.js-starter-project.git
+git clone git@github.com:0xProject/0x-starter-project.git
 ```
 
 Install all the dependencies (we use Yarn: `brew install yarn --without-node`):
@@ -177,7 +177,7 @@ Now we are ready to start interacting with the relayer! For each address in `wet
 
 ```javascript
 await Promise.all(wethOwnerAddresses.map(async (address, index) => {
-    // Steps for the "Getting fee information from the relayer" and "Signing and submitting an order the the relayer" sections go here
+    // Steps for the "Getting fee information from the relayer" and "Signing and submitting an order to the relayer" sections go here
 }
 ```
 
@@ -215,7 +215,7 @@ const order: Order = {
 };
 ```
 
-### Signing and submitting an order the the relayer
+### Signing and submitting an order to the relayer
 
 Now that we created an order, we need to prove that we actually own the address specified in the `maker` field of `order`. To do so, we will sign the order with the corresponding private key and append the signature to our order to form a complete `SignedOrder`. We then submit this order to the `submitOrderAsync()` function of the `relayerClient`. If you are not using TestRPC as your Web3 Provider, you will need to pass a provider to `0x.js` that sends message signing requests to your signing service.
 

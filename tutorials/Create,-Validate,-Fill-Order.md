@@ -7,7 +7,7 @@ Since 0x.js helps you build apps that interface with Ethereum, you will need to 
 Clone the repo:
 
 ```
-git clone git@github.com:0xProject/0x.js-starter-project.git
+git clone git@github.com:0xProject/0x-starter-project.git
 ```
 
 Install all the dependencies (we use Yarn: `brew install yarn --without-node`):

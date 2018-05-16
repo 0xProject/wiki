@@ -13,7 +13,7 @@ For this tutorial we will be using [TestRPC](https://github.com/ethereumjs/testr
 Clone the repo:
 
 ```
-git clone git@github.com:0xProject/0x.js-starter-project.git
+git clone git@github.com:0xProject/0x-starter-project.git
 ```
 
 Install all the dependencies (we use Yarn: `brew install yarn --without-node`):
