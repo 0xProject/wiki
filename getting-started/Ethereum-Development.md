@@ -22,7 +22,7 @@ In order to interact with dApps (distributed applications) a user must have Ethe
 
 #### Test networks
 
-Development and testing are aided by running in your own local test Ethereum node. This allows you to quickly deploy and interact with contracts without spending real ETH. [Ganache](https://github.com/trufflesuite/ganache) simulates an Ethereum node locally and provides the same JSON RPC interface as a real node. Since there can still be small differences between it and a real Ethereum node (e.g [Geth](https://github.com/ethereum/go-ethereum) or [Parity](https://github.com/paritytech/parity)) so we recommend you also test your application on a live testnet (i.e Kovan, Rinkeby, or Ropsten) before deploying on to the main Ethereum network.
+Development and testing are aided by running in your own local test Ethereum node. This allows you to quickly deploy and interact with contracts without spending real ETH. [Ganache](https://github.com/trufflesuite/ganache) simulates an Ethereum node locally and provides the same JSON RPC interface as a real node. Since there can still be small differences between it and a real Ethereum node (e.g [Geth](https://github.com/ethereum/go-ethereum) or [Parity](https://github.com/paritytech/parity)), we recommend you also test your application on a live testnet (i.e Kovan, Rinkeby, or Ropsten) before deploying on to the main Ethereum network.
 
 Rather than spinning up your own Ethereum node infrastructure to connect to the network, many developers use [INFURA](https://infura.io/). They provide public, scalable Ethereum nodes as a service. Since Ethereum nodes were not designed to handle thousands of requests per second, Infura has built out infrastructure around the nodes to make them more performant.
 

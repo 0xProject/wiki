@@ -237,4 +237,4 @@ console.log('FillOrder transaction receipt: ', txReceipt);
 
 printing out the transaction receipt for the successful fillOrder transaction.
 
-Congratulation! You have now successfully created, validated and filled an order using 0x.js and the 0x protocol!
+Congratulations! You have now successfully created, validated and filled an order using 0x.js and the 0x protocol!

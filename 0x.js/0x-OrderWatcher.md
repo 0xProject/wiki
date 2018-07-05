@@ -43,7 +43,7 @@ The orderWatcher takes a more sophisticated approach to this problem by mapping 
 
 ### State finality
 
-The order watcher works on the pending state layer (mempool). This means, that you get notified about changes in order validity as soon as the relevant transaction hits the mempool. This has many upsides - it enables people to build more reactive UI's and waste less gas trying to fill orders that have a high likelihood of already being filled. However it also has some downsides - state changes are emitted more frequently then they would be if we operated on the state layer with at least 1 confirmation (latest block).
+The order watcher works on the pending state layer (mempool). This means, that you get notified about changes in order validity as soon as the relevant transaction hits the mempool. This has many upsides - it enables people to build more reactive UI's and waste less gas trying to fill orders that have a high likelihood of already being filled. However it also has some downsides - state changes are emitted more frequently than they would be if we operated on the state layer with at least 1 confirmation (latest block).
 
 ### Understanding blockchain state layers
 

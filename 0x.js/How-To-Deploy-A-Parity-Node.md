@@ -63,7 +63,7 @@ docker run -d \
 --tx-queue-size 1000000
 ```
 
-Since this is a pretty beefy command, let's break it down. The `--log-opt` commands enables the default Docker logger so that it stores up to 20 files of 100 megabytes each. These logs can be inspected by running:
+Since this is a pretty beefy command, let's break it down. The `--log-opt` commands enable the default Docker logger so that it stores up to 20 files of 100 megabytes each. These logs can be inspected by running:
 
 ```
 docker logs parity-kovan
