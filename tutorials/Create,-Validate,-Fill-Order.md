@@ -28,7 +28,7 @@ In a separate terminal, navigate to the project directory and start TestRPC:
 yarn testrpc
 ```
 
-You can now run the code we are going to walk you through in the rest of this tutorial:
+You can now run the code (`src/tutorials/order_actions/index.ts`) that we are going to walk you through in the rest of this tutorial:
 
 ```
 yarn order_actions
