@@ -104,10 +104,8 @@ docker run -d \
 --jsonrpc-interface 0.0.0.0 \
 --jsonrpc-cors '*' \
 --jsonrpc-hosts all \
--d /mnt \
 --auto-update none \
 --no-download \
---tx-queue-gas off \
 --tx-queue-size 1000000
 ```
 
