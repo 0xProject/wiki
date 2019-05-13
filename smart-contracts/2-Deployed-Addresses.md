@@ -10,8 +10,8 @@ For projects writing in Javascript/typescript, we have published the [@0x/contra
 -   OrderValidator: [0x9463e518dea6810309563c81d5266c1b1d149138](https://etherscan.io/address/0x9463e518dea6810309563c81d5266c1b1d149138)
 -   WETH9 (EtherToken): [0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2](https://etherscan.io/address/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2)
 -   ZRXToken: [0xe41d2489571d322189246dafa5ebde1f4699f498](https://etherscan.io/address/0xE41d2489571d322189246DaFA5ebDe1F4699F498)
--   CoordinatorRegistry: [0x45797531b873fd5e519477a070a955764c1a5b07](https://kovan.etherscan.io/address/0x45797531b873fd5e519477a070a955764c1a5b07)
--   Coordinator: [0x24675738816c87ad37e712cc24f309a0c906187f](https://kovan.etherscan.io/address/0x24675738816c87ad37e712cc24f309a0c906187f)
+-   CoordinatorRegistry: [0x45797531b873fd5e519477a070a955764c1a5b07](https://etherscan.io/address/0x45797531b873fd5e519477a070a955764c1a5b07)
+-   Coordinator: [0x25aae5b981ce6683cc5aeea1855d927e0b59066f](https://etherscan.io/address/0x25aae5b981ce6683cc5aeea1855d927e0b59066f)
 
 #### Kovan
 
@@ -24,7 +24,7 @@ For projects writing in Javascript/typescript, we have published the [@0x/contra
 -   WETH9 (EtherToken): [0xd0a1e359811322d97991e03f863a0c30c2cf029c](https://kovan.etherscan.io/address/0xd0a1e359811322d97991e03f863a0c30c2cf029c)
 -   ZRXToken: [0x2002d3812f58e35f0ea1ffbf80a75a38c32175fa](https://kovan.etherscan.io/address/0x2002d3812f58e35f0ea1ffbf80a75a38c32175fa)
 -   CoordinatorRegistry: [0x09fb99968c016a3ff537bf58fb3d9fe55a7975d5](https://kovan.etherscan.io/address/0x09fb99968c016a3ff537bf58fb3d9fe55a7975d5)
--   Coordinator: [0x04b2b090bad68b254881d7eb645a258ce66cc998](https://kovan.etherscan.io/address/0x04b2b090bad68b254881d7eb645a258ce66cc998)
+-   Coordinator: [0x25aae5b981ce6683cc5aeea1855d927e0b59066f](https://kovan.etherscan.io/address/0x25aae5b981ce6683cc5aeea1855d927e0b59066f)
 
 #### Ropsten
 
@@ -36,8 +36,8 @@ For projects writing in Javascript/typescript, we have published the [@0x/contra
 -   OrderValidator: [0x90431a90516ab49af23a0530e04e8c7836e7122f](https://ropsten.etherscan.io/address/0x90431a90516ab49af23a0530e04e8c7836e7122f)
 -   WETH9 (EtherToken): [0xc778417e063141139fce010982780140aa0cd5ab](https://ropsten.etherscan.io/address/0xc778417e063141139fce010982780140aa0cd5ab)
 -   ZRXToken: [0xff67881f8d12f372d91baae9752eb3631ff0ed00](https://ropsten.etherscan.io/address/0xff67881f8d12f372d91baae9752eb3631ff0ed00)
--   CoordinatorRegistry: [0x403cc23e88c17c4652fb904784d1af640a6722d9](https://kovan.etherscan.io/address/0x403cc23e88c17c4652fb904784d1af640a6722d9)
--   Coordinator: [0xc442300dcb4df1ff1db0173e77556dc559de6006](https://kovan.etherscan.io/address/0xc442300dcb4df1ff1db0173e77556dc559de6006)
+-   CoordinatorRegistry: [0x403cc23e88c17c4652fb904784d1af640a6722d9](https://ropsten.etherscan.io/address/0x403cc23e88c17c4652fb904784d1af640a6722d9)
+-   Coordinator: [0x25aae5b981ce6683cc5aeea1855d927e0b59066f](https://ropsten.etherscan.io/address/0x25aae5b981ce6683cc5aeea1855d927e0b59066f)
 
 #### Rinkeby
 
@@ -49,5 +49,5 @@ For projects writing in Javascript/typescript, we have published the [@0x/contra
 -   OrderValidator: [0x39c3fc9f4d8430af2713306ce80c584752d9e1c7](https://rinkeby.etherscan.io/address/0x39c3fc9f4d8430af2713306ce80c584752d9e1c7)
 -   WETH9 (EtherToken): [0xc778417e063141139fce010982780140aa0cd5ab](https://rinkeby.etherscan.io/address/0xc778417e063141139fce010982780140aa0cd5ab)
 -   ZRXToken: [0x2727e688b8fd40b198cd5fe6e408e00494a06f07](https://rinkeby.etherscan.io/address/0x2727e688b8fd40b198cd5fe6e408e00494a06f07)
--   CoordinatorRegistry: [0x1084b6a398e47907bae43fec3ff4b677db6e4fee](https://kovan.etherscan.io/address/0x1084b6a398e47907bae43fec3ff4b677db6e4fee)
--   Coordinator: [0xc05e6c01b83eeedecac2f7bab9367da4d4c108df](https://kovan.etherscan.io/address/0xc05e6c01b83eeedecac2f7bab9367da4d4c108df)
+-   CoordinatorRegistry: [0x1084b6a398e47907bae43fec3ff4b677db6e4fee](https://rinkeby.etherscan.io/address/0x1084b6a398e47907bae43fec3ff4b677db6e4fee)
+-   Coordinator: [0x25aae5b981ce6683cc5aeea1855d927e0b59066f](https://rinkeby.etherscan.io/address/0x25aae5b981ce6683cc5aeea1855d927e0b59066f)
