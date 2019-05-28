@@ -30,6 +30,7 @@ These lists are composed of projects that publicly announced their interest in u
 
 ### List of relayers that will be (or are) using the 0x protocol
 
+* [EtherBlockchain.io](https://etherblockchain.io)
 * [Amadeus](https://amadeusrelay.org)
 * [Bamboo Relay](https://www.bamboorelay.com/)
 * [ERC dEX](https://ercdex.com)
