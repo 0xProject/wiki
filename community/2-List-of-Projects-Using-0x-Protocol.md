@@ -42,6 +42,7 @@ These lists are composed of projects that publicly announced their interest in u
 * [Lake Project](https://lakeproject.co/)
 * [LedgerDex](https://www.ledgerdex.com/)
 * [MobiDex](https://mobidex.io)
+* [Oc2](https://oc2realm.com)
 * [OpenRelay](https://openrelay.xyz)
 * [Paradex](https://paradex.io/)
 * [Radar Relay](https://radarrelay.com/)
